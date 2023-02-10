@@ -5,13 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eliasstepanik" alt="eliasstepanik" /></a> </p>
 
-- 🔭 I’m currently working on [VoicemeeterSliderControlCSharp](https://github.com/eliasstepanik/VoicemeeterSliderControlCSharp)
-
-- 🌱 I’m currently learning **BlazorCanvas**
-
 - 👨‍💻 All of my projects are available at [https://github.com/eliasstepanik](https://github.com/eliasstepanik)
 
-- 💬 Ask me about **asp.net core, c#, java**
+- 💬 Ask me about **asp.net core, c#**
 
 - 📫 How to reach me **eliasstepanik@web.de**
 
