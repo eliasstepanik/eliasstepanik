@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **asp.net core, c#**
 
-- 📫 How to reach me **eliasstepanik@web.de**
+- 📫 How to reach me **eliasstepanik@proton.me**
 
 
 <h3 align="left">Languages and Tools:</h3>
