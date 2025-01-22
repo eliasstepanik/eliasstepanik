@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/eliasstepanik](https://github.com/eliasstepanik)
 
-- 💬 Ask me about **asp.net core, c#**
+- 💬 Ask me about **asp.net core, c#, rust**
 
 - 📫 How to reach me **eliasstepanik@proton.me**
 
