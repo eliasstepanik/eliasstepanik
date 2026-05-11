@@ -100,8 +100,8 @@ I started in C# and Java (2018–2022), building desktop applications, audio har
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eliasstepanik&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9&title_color=58a6ff" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasstepanik&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff" alt="Top Languages" height="165" />
+  <img src="https://github-stats.sailehd.systems/api?username=eliasstepanik&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9&title_color=58a6ff&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-stats.sailehd.systems/api/top-langs/?username=eliasstepanik&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&count_private=true" alt="Top Languages" height="165" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=eliasstepanik&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
