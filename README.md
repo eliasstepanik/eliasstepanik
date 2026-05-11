@@ -28,9 +28,39 @@ I started in C# and Java (2018–2022), building desktop applications, audio har
 - [`Audiobook-Generator`](https://github.com/eliasstepanik/Audiobook-Generator) — LLM-powered multi-speaker audiobook pipeline using Qwen3 + TTS
 
 **Graphics & Game Dev (Rust)**
-- [`webgpu-engine`](https://github.com/eliasstepanik/webgpu-engine) — Modern 3D engine in Rust/WebGPU with ECS architecture and embedded scripting
-- [`Pathtracer`](https://github.com/eliasstepanik/Pathtracer) — Physically-based path tracer, CPU + GPU, with Blender scene integration
-- [`voxel-simulation`](https://github.com/eliasstepanik/voxel-simulation) — Streaming voxel terrain engine in Bevy using big-space coordinates
+
+<table>
+<tr>
+<td width="50%">
+
+**[`webgpu-engine`](https://github.com/eliasstepanik/webgpu-engine)** — Modern 3D engine in Rust/WebGPU with ECS architecture and embedded scripting
+
+</td>
+<td width="50%">
+<img src="https://raw.githubusercontent.com/eliasstepanik/webgpu-engine/master/screenshot.png" width="100%" />
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[`Pathtracer`](https://github.com/eliasstepanik/Pathtracer)** — Physically-based path tracer, CPU + GPU, with Blender scene integration
+
+</td>
+<td width="50%">
+<img src="https://raw.githubusercontent.com/eliasstepanik/Pathtracer/master/render_7680x4320_s131072_ap0.02_f10.0_tzW1Af.png" width="100%" />
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[`voxel-simulation`](https://github.com/eliasstepanik/voxel-simulation)** — Streaming voxel terrain engine in Bevy using big-space coordinates
+
+</td>
+<td width="50%">
+<img src="https://raw.githubusercontent.com/eliasstepanik/voxel-simulation/master/images/voxel-simulation-demo.png" width="100%" />
+</td>
+</tr>
+</table>
 
 **Astronomy Automation**
 - [`n8n-nodes-ninaapi`](https://github.com/eliasstepanik/n8n-nodes-ninaapi) — n8n workflow nodes for N.I.N.A. astronomy software: cameras, mounts, domes, focusers, polar alignment
@@ -40,7 +70,19 @@ I started in C# and Java (2018–2022), building desktop applications, audio har
 - [`AutoProxy`](https://github.com/eliasstepanik/AutoProxy) — Automated proxy management infrastructure
 
 **Audio & Hardware**
-- [`VoicemeeterSliderControlCSharp`](https://github.com/eliasstepanik/VoicemeeterSliderControlCSharp) — Arduino + C# hardware controller for Voicemeeter audio mixer (★5)
+
+<table>
+<tr>
+<td width="50%">
+
+**[`VoicemeeterSliderControlCSharp`](https://github.com/eliasstepanik/VoicemeeterSliderControlCSharp)** — Arduino + C# hardware controller for Voicemeeter audio mixer (★5)
+
+</td>
+<td width="50%">
+<img src="https://raw.githubusercontent.com/eliasstepanik/VoicemeeterSliderControlCSharp/master/3vm.jpg" width="100%" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -57,7 +99,13 @@ I started in C# and Java (2018–2022), building desktop applications, audio har
 
 ---
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasstepanik&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9&title_color=58a6ff)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eliasstepanik&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9&title_color=58a6ff" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasstepanik&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff" alt="Top Languages" height="165" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=eliasstepanik&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+</p>
 
 ---
 
