@@ -1,6 +1,6 @@
 ## Hi, I'm Elias.
 
-I build infrastructure for AI agents, graphics engines in Rust, and tools that bridge hardware and software. Developer at Volkswagen, based in Wolfsburg, Germany.
+I build infrastructure for AI agents, graphics engines in Rust, and tools that bridge hardware and software.
 
 ---
 
